@@ -4,6 +4,7 @@ RENCANA KONTEN JABINSAR
   *ES6
   *Framework Javascript
     ^Vie
+    ^React
 - Struktur data dasar
 - PHP Frameworks
     ^Laravel
