@@ -3,7 +3,10 @@ RENCANA KONTEN JABINSAR
 - Javascript
   *ES6
   *Framework Javascript
+    ^Vie
 - Struktur data dasar
 - PHP Frameworks
+    ^Laravel
 - Interview
 - Vlogs
+- Python
